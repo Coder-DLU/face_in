@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/face_in/static/css/main.adfdfb22.chunk.css",
+    "main.js": "/face_in/static/js/main.a6ef66a6.chunk.js",
+    "main.js.map": "/face_in/static/js/main.a6ef66a6.chunk.js.map",
+    "runtime-main.js": "/face_in/static/js/runtime-main.55aad769.js",
+    "runtime-main.js.map": "/face_in/static/js/runtime-main.55aad769.js.map",
+    "static/js/2.e982608a.chunk.js": "/face_in/static/js/2.e982608a.chunk.js",
+    "static/js/2.e982608a.chunk.js.map": "/face_in/static/js/2.e982608a.chunk.js.map",
+    "static/js/3.63d353dc.chunk.js": "/face_in/static/js/3.63d353dc.chunk.js",
+    "static/js/3.63d353dc.chunk.js.map": "/face_in/static/js/3.63d353dc.chunk.js.map",
+    "index.html": "/face_in/index.html",
+    "static/css/main.adfdfb22.chunk.css.map": "/face_in/static/css/main.adfdfb22.chunk.css.map",
+    "static/js/2.e982608a.chunk.js.LICENSE.txt": "/face_in/static/js/2.e982608a.chunk.js.LICENSE.txt",
+    "static/media/hey_sondn.8c2f8e9b.mp3": "/face_in/static/media/hey_sondn.8c2f8e9b.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55aad769.js",
+    "static/js/2.e982608a.chunk.js",
+    "static/css/main.adfdfb22.chunk.css",
+    "static/js/main.a6ef66a6.chunk.js"
+  ]
+}
